@@ -90,15 +90,19 @@
     <br />
     <strong>Olette kotona.</strong> – Вы дома.
 </p>
-<p>Но местоимения <strong>он</strong> / <strong>она</strong> / <strong>они</strong> употребляются всегда.</p>
-<p class="example">
+<p>
+    Но местоимения <strong>он</strong> / <strong>она</strong> / <strong>они</strong> употребляются всегда.
+</p>
+<p>
     <strong>He ovat täällä.</strong> – Они здесь.
     <br />
     <strong>Hän on venäläinen.</strong> – Он (она) русский (русская).
 </p>
 <empty-line />
 <h2>Отрицательная форма глагола olla (быть)</h2>
-<p>Отрицательная форма глагола <strong>olla</strong> образуется очень просто:</p>
+<p>
+    Отрицательная форма глагола <strong>olla</strong> образуется очень просто:
+</p>
 <p>
     нужно добавить частичку <strong>ei</strong>, которая изменяется по лицам, и поставить <strong>ole</strong> после нее
 </p>
@@ -116,160 +120,303 @@
         <tr>
             <td>Minä</td>
             <td>en</td>
-            <td><span class="accent">ole</span> kotona</td>
-            <td>Я не есть дома</td>
+            <td><strong>ole</strong> kotona</td>
+            <td>Я не [есть] дома</td>
         </tr>
         <tr>
             <td>Sinä</td>
             <td>et</td>
-            <td><span class="accent">ole</span> kotona</td>
-            <td>Ты не есть дома</td>
+            <td><strong>ole</strong> kotona</td>
+            <td>Ты не [есть] дома</td>
         </tr>
         <tr>
             <td>Hän</td>
             <td>ei</td>
-            <td><span class="accent">ole</span> kotona</td>
-            <td>Он, она не есть дома</td>
+            <td><strong>ole</strong> kotona</td>
+            <td>Он, она не [есть] дома</td>
         </tr>
         <tr>
             <td>Me</td>
             <td>emme</td>
-            <td><span class="accent">ole</span> kotona</td>
-            <td>Мы не есть дома</td>
+            <td><strong>ole</strong> kotona</td>
+            <td>Мы не [есть] дома</td>
         </tr>
         <tr>
             <td>Te</td>
             <td>ette</td>
-            <td><span class="accent">ole</span> kotona</td>
-            <td>Вы не есть дома</td>
+            <td><strong>ole</strong> kotona</td>
+            <td>Вы не [есть] дома</td>
         </tr>
         <tr>
             <td>He</td>
             <td>eivät</td>
-            <td><span class="accent">ole</span> kotona</td>
-            <td>Они не есть дома</td>
+            <td><strong>ole</strong> kotona</td>
+            <td>Они не [есть] дома</td>
         </tr>
     </tbody>
 </table>
-<p class="example">En ole venäläinen, olen ukrainalainen. – <span class="mute">Я не русский, я украинец.</span>
-    <br />Emme ole Helsingissä, olemme Kuopiossa. – <span class="mute">Мы не в Хельсинки, мы в Куопио.</span>
+<p>
+    <strong>En ole venäläinen, olen ukrainalainen.</strong> – Я не русский, я украинец.
+    <br />
+    <strong>Emme ole Helsingissä, olemme Kuopiossa.</strong> – Мы не в Хельсинки, мы в Куопио.
 </p>
+<empty-line/>
 <h2>Вопросительная форма</h2>
-<p>Вопросительная форма глагола <em><strong>olla</strong></em> образуется очень просто:</p>
-<p class="alert alert-hint">глагол <span class="accent">olla</span> в правильной форме + частичка <span class="accent">ko</span></p>
+<p>
+    Вопросительная форма глагола <strong>olla</strong> образуется очень просто:
+</p>
+<p>
+    глагол <strong>olla</strong> в правильной форме + частичка <strong>ko</strong>
+</p>
 <p>Глагол выходит на первое место:</p>
-<table class="table table-striped table-bordered accent-1  right-1 center-2 mute-3">
+<table>
     <thead>
         <tr>
-            <th colspan="3">Olla+ko</th>
+            <th colspan="2">Olla+ko</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Olenko</td>
-            <td>minä kotona</td>
+            <td>Olenko minä kotona</td>
             <td>(есть) Я дома?</td>
         </tr>
         <tr>
-            <td>Oletko</td>
-            <td>sinä kotona</td>
+            <td>Oletko sinä kotona</td>
             <td>(есть) Ты дома?</td>
         </tr>
         <tr>
-            <td>Onko</td>
-            <td>hän kotona</td>
+            <td>Onko hän kotona</td>
             <td>(есть) Он, она дома?</td>
         </tr>
         <tr>
-            <td>Olemmeko</td>
-            <td>me kotona</td>
+            <td>Olemmeko me kotona</td>
             <td>(есть) Мы дома?</td>
         </tr>
         <tr>
-            <td>Oletteko</td>
-            <td>te kotona</td>
+            <td>Oletteko te kotona</td>
             <td>(есть) Вы дома?</td>
         </tr>
         <tr>
-            <td>Ovatko</td>
-            <td>he kotona</td>
+            <td>Ovatko he kotona</td>
             <td>(есть) Они дома?</td>
         </tr>
     </tbody>
 </table>
-<p class="example">
+<p>
     <strong>Olenko minä kaunis?</strong> – Я красивая? (kaunis – красивый)
     <br />
     <strong>Oletteko kaupassa?</strong> – Вы в магазине? (kauppa – магазин)
     <br />
     <strong>Ovatko he töissä?</strong> – Они на работе? (töissä – на работе, työ – работа)
 </p>
-
+<empty-line/>
 <h2>Устойчивые выражения с глаголом olla (быть)</h2>
 <p>
-    С глаголом <strong>olla</strong> в финском языке есть очень много устойчивых выражений, которые украсят и обогатят Вашу речь на старте изучения языка.
-    </p>
-<p>Поставьте глагол в нужную форму и у Вас получатся правильные повседневные фразы.</p>
-<p>Единственное, на что я бы хотела обратить ваше внимание – в этом уроке мы будем работать только с единственным числом в устойчивых выражениях. Для множественного будет немного другая форма самого слова.</p>
+    С глаголом <strong>olla</strong> в финском языке есть очень много устойчивых выражений, которые украсят и обогатят речь.
+</p>
+<p>Поставьте глагол в нужную форму и получатся правильные повседневные фразы.</p>
+<p>В этом уроке мы будем работать только с единственным числом в устойчивых выражениях. Для множественного будет немного другая форма самого слова.</p>
 <p>Например:</p>
-<table class="table table-striped table-bordered mute-2 right-1 bold-1">
+<table>
     <tbody>
         <tr>
-            <td>olla terve</td>
+            <td><strong>olla terve</strong></td>
             <td>быть здоровым</td>
         </tr>
         <tr>
-            <td>olla kipeä</td>
+            <td><strong>olla kipeä</strong></td>
             <td>быть больным</td>
         </tr>
         <tr>
-            <td>olla kiireinen</td>
+            <td><strong>olla kiireinen</strong></td>
             <td>быть занятым</td>
         </tr>
         <tr>
-            <td>olla valmis</td>
+            <td><strong>olla valmis</strong></td>
             <td>быть готовым</td>
         </tr>
         <tr>
-            <td>olla tyytyväinen</td>
+            <td><strong>olla tyytyväinen</strong></td>
             <td>быть довольным</td>
         </tr>
         <tr>
-            <td>olla naimisissa</td>
+            <td><strong>olla naimisissa</strong></td>
             <td>быть женатым (замужем)</td>
         </tr>
         <tr>
-            <td>olla ajoissa</td>
+            <td><strong>olla ajoissa</strong></td>
             <td>быть вовремя</td>
         </tr>
         <tr>
-            <td>olla kotona</td>
+            <td><strong>olla kotona</strong></td>
             <td>быть дома</td>
         </tr>
         <tr>
-            <td>olla töissä</td>
+            <td><strong>olla töissä</strong></td>
             <td>быть на работе</td>
         </tr>
         <tr>
-            <td>olla väsynyt</td>
+            <td><strong>olla väsynyt</strong></td>
             <td>быть уставшим</td>
         </tr>
         <tr>
-            <td>olla kunnossa</td>
+            <td><strong>olla kunnossa</strong></td>
             <td>быть в порядке</td>
         </tr>
         <tr>
-            <td>olla kylässä</td>
+            <td><strong>olla kylässä</strong></td>
             <td>быть в гостях</td>
         </tr>
         <tr>
-            <td>olla oikeassa</td>
+            <td><strong>olla oikeassa</strong></td>
             <td>быть правым</td>
         </tr>
         <tr>
-            <td>olla iloinen</td>
+            <td><strong>olla iloinen</strong></td>
             <td>быть радостным</td>
         </tr>
     </tbody>
 </table>
+<empty-line/>
+<empty-line/>
+
+<subtitle>Урок 2</subtitle>
+
+    <h1>Глаголы 1-й и 3-й групп</h1> 
+    <p>
+        В этом уроке мы с вами научимся работать с глаголами, а именно, узнаем, какие окончания нужно ставить, чтобы получилось: я работаю, ты идешь, мы говорим, а не получалось: я работать, ты идти, мы говорить.
+    </p>
+    <p>В этом уроке самые ходовые глаголы 1 и 3 групп.</p>
+    <p>
+        Глаголы 1 группы заканчиваются, как правило, на две гласных, последняя из которых <strong>a</strong> /<strong>ä</strong>. Нам нужно убрать это окончание и прибавить нужные для каждого местоимения. Для <strong>он </strong>/ <strong>она</strong> нам нужно только удвоить последнюю гласную.
+    </p>
+    <p>
+        Глаголы 3 группы заканчиваются на <strong>-la</strong> / <strong>-lä</strong>, <strong>-na</strong> / <strong>-nä</strong>, <strong>-ra</strong> / <strong>-rä</strong>, <strong>-(s)ta</strong> / <strong>-(s)tä</strong>. Убираем окончание, добавляем нужные буквы, но плюс перед ними ставим еще букву <strong>e</strong>.
+    </p>
+    <p>Для он / она вместо окончания будет <strong>-eе</strong>.</p>
+    <p>Например:</p>
+    <table class="table table-striped table-bordered bold-1 half">
+        <thead>
+            <tr>
+                <th>Местоимение</th>
+                <th><strong>asua</strong> (жить)</th>
+                <th><strong>mennä</strong> (идти)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Minä</td>
+                <td><strong>asun</strong></td>
+                <td><strong>menen</span></td>
+            </tr>
+            <tr>
+                <td>Sinä</td>
+                <td><strong>asut</strong></td>
+                <td><strong>menet</strong></td>
+            </tr>
+            <tr>
+                <td>Hän</td>
+                <td><strong>asuu</strong></td>
+                <td><strong>menee</strong></td>
+            </tr>
+            <tr>
+                <td>Me</td>
+                <td><strong>asumme</strong></td>
+                <td><strong>menemme</strong></td>
+            </tr>
+            <tr>
+                <td>Te</td>
+                <td><strong>asutte</strong></td>
+                <td><strong>menette</strong></td>
+            </tr>
+            <tr>
+                <td>He</td>
+                <td><strong>asuvat</strong></td>
+                <td><strong>menevät</strong></td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Например, мы рассказываем о себе и говорим:</p>
+    <p class="example">
+        <strong>Olen Zhenja.</strong> – Я – Женя.
+        <br />
+        <strong>Olen kaksikymmentäkolme vuotias.</strong> – Мне 23 года. (vuosi – год, vuotias – года)
+        <br />
+        <strong>Olen Venäjältä.</strong> – Я из России. (Venäjältä – из России, Venäjä – Россия)
+        <br />
+        <strong>Olen venäläinen, mutta nyt minä asun Ukrainassa.</strong> – Я русский, но сейчас живу в Украине. (venäläinen – русский, mutta – но, nyt – сейчас, asua – жить, Ukrainassa – в Украине).
+        <br />
+        <strong>Minä olen naimisissa.</strong> – Я женат. (naimisissa – женат, замужем)
+        <br />
+        <strong>Minä työskentelen yrityksessä.</strong> – Я работаю на фирме. (työskennellä – работать, yrityksessä – на фирме, yritys - фирма)
+        <br />
+        <strong>Lauantai ja sunnuntai ovat vapaa-päiviä.</strong> – Суббота, воскресенье – выходные. (lauantai – суббота, sunnuntai – воскресенье, vapaa-päivät – выходные дни)
+        <br />
+        <strong>Minä opiskelen suomea.</strong> – Я учу финский. (opiskella – учить/ся)
+        <br />
+        <strong>Minä puhun monia kieliä.</strong> – Я говорю на нескольких языках. (puhua – говорить, moni – много, несколько, kieli – язык).
+    </p>
+    <h2>Вопросы</h2>
+    <p>Если <strong>нет</strong> вопросительного слова (как, где, куда, когда, почему, зачем), то</p>
+    <p>глагол выходит на <strong>первое</strong> место и к нему прибавляется <strong>окончание</strong> <span class="accent">ko</span> / <span class="accent">kö</span></p>
+    <p>
+        <strong>Asutko täällä?</strong> – Ты живёшь здесь? (täällä – здесь)
+        <br />
+        <strong>Työskenteletkö sinä jossakin?</strong> – Ты где-то работаешь? (työskennellä – работать, jossakin – где-нибудь)
+        <br />
+        <strong>Opiskeletko sinä?</strong> – Ты учишься? (opiskella – учить/ся)
+        <br />
+        <strong>Menevätkö he kouluun?</strong> – Они идут в школу? (mennä – идти, kouluun – в школу, koulu – школа)
+    </p>
+    <p>Если есть вопросительное слово (как, где, куда, когда, почему, зачем), то оно ставится перед обычным утвердительным предложением:</p>
+    <p>
+        <strong>Kuka sinä olet?</strong> – (досл: Кто ты?)
+        <br />
+        <strong>Kuinka vanha sinä olet?</strong> – Сколько тебе лет? (досл: Насколько ты старый?, vanha –старый)
+        <br />
+        <strong>Mistä sinä olet?</strong> – Ты откуда? (mistä – откуда)
+        <br />
+        <strong>Missä sinä asut?</strong> – Где ты живешь? (missä – где)
+        <br />
+        <strong>Missä sinä työskentelet?</strong> – Где ты работаешь?
+        <br />
+        <strong>Milloin sinä menet töihin?</strong> – Когда ты идешь на работу? (milloin – когда)
+        <br />
+        <strong>Mihin sinä menet?</strong> – Куда ты идешь? (mihin – куда)
+        <br />
+        <strong>Mitä kieliä sinä puhut?</strong> – На каких языках ты говоришь? (досл: mitä kieliä – какие языки)
+        <br />
+        <strong>Miksi sinä kysyt?</strong> – А почему ты спрашиваешь? (miksi – почему, kysyä – спрашивать)
+    </p>
+
+    <empty-line/>
+    <empty-line/>
+    <h2>Упражнения</h2>
+    <h3>Упражнение №1</h3>
+    <h4> Перестройте текст для третьего лица «он»</h2>
+    <ol>
+        <li><strong>Olen Zhenja.</strong></li>
+        <li><strong>Olen kaksikymmentäkolmevuotias.</strong></li>
+        <li><strong>Olen Venäjältä.</strong></li>
+        <li><strong>Olen venäläinen, mutta nyt minä asun Ukrainassa.</strong></li>
+        <li><strong>Minä olen naimisissa.</strong></li>
+        <li><strong>Minä olen töissä maanantaista perjantaihin.</strong> (maanantaista perjantaihin – с понедельника по пятницу, olla töissä – работать)</li>
+        <li><strong>Lauantai ja sunnuntai ovat vapaa-päiviä.</strong></li>
+        <li><strong>Minä opiskelen suomea.</strong></li>
+        <li><strong>Minä puhun monia kieliä.</strong></li>
+    </ol>
+    <empty-line/>                        
+    <h3>Упражнение №2</h3>
+    <h4> Перепишите текст для местоимения «она»</h2>
+    <ol>
+        <li><strong>Kuka sinä olet?</strong></li>
+        <li><strong>Kuinka vanha sinä olet?</strong></li>
+        <li><strong>Mistä sinä olet?</strong></li>
+        <li><strong>Missä sinä asut?</strong></li>
+        <li><strong>Missä sinä työskentelet?</strong></li>
+        <li><strong>Milloin sinä menet töihin?</strong></li>
+        <li><strong>Mihin sinä menet?</strong></li>
+        <li><strong>Mitä kieliä sinä puhut?</strong></li>
+        <li><strong>Miksi sinä kysyt?</strong></li>
+    </ol>
 </FictionBook>
