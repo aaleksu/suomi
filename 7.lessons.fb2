@@ -8,9 +8,8 @@
 </description>
 <empty-line/>
 <subtitle>Правила чтения</subtitle>
-<p>Чем лёгок финский язык в изучении, так это тем, что всё читается ровно, как и пишется, т.е. одна буква обозначает один звук.</p>
+<p>Читается так, как и пишется.</p>
 <p>Ударение фиксируется на первом слоге.</p>
-<p>Единственными «закавырками» могут стать непривычные для иностранцев звуки.</p>
 <p>
     <strong>ä</strong> – это средний звук между [а] и [я], как в слоге [бя],
     <br />
@@ -18,7 +17,6 @@
     <br />
     <strong>y</strong> – это средний звук между [у] и [ю], как в слоге [бю].
 </p>
-<p>Но их можно потренировать, произнося русские слоги [бя], [бё], [бю]. И вот так, как складываются губы и напрягаются (только без фанатизма! ) связки при произношении этих слогов, так же произносятся эти финские звуки.</p>
 <p>Некоторые звуки требуют объяснения:</p>
 <p class="example">
     <strong>e</strong> – близок к русскому [э],
@@ -28,9 +26,9 @@
     <strong>q</strong>, <strong>x</strong>, <strong>z</strong> – встречаются только в заимствованных словах,
     <br />
     <strong>s</strong> – похож на русский [с], но произносится как бы со свистом и шипением одновременно, что-то между русскими [с] и [щ].</p>
-<p>Ещё есть такой звук <strong>h</strong> – звучит почти как украинское [г], но нежнее, надо только потренироваться. В большинстве же случаев этот звук произносится как [х].</p>
+<p>Ещё есть такой звук <strong>h</strong> – звучит почти как украинское [г], но нежнее. В большинстве случаев произносится как [х].</p>
 <p>Согласные не смягчаются гласными.</p>
-<p>Очень важно произносить именно то количество букв, которое есть в слове – не увеличивать и не уменьшать! А то может получиться казус :)</p>
+<p>Очень важно произносить то количество букв, которое есть в слове</p>
 <p>Вот классический пример этому:</p>
 <p class="example">
     <strong>tuli</strong> (огонь)
@@ -39,250 +37,74 @@
     <br />
     <strong>tulli</strong> (таможня)
 </p>
-<p>Слова похожи и в произношении, и в написании, но имеют разное значение.</p>
-
-<h2>Спряжение глагола olla (быть)</h2>
+<subtitle>Спряжение глагола olla (быть)</subtitle>
 <p>В финском языке есть следующие местоимения:</p>
-<table>
-    <thead>
-        <tr>
-            <th colspan="3">olla</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Minä</td>
-            <td><strong>olen</strong> kotona</td>
-            <td>Я [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Sinä</td>
-            <td><strong>olet</strong> kotona</td>
-            <td>Ты [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Hän</td>
-            <td><strong>on</strong> kotona</td>
-            <td>Он / она [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Me</td>
-            <td><strong>olemme</strong> kotona</td>
-            <td>Мы [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Te</td>
-            <td><strong>olette</strong> kotona</td>
-            <td>Вы [есть] дома</td>
-        </tr>
-        <tr>
-            <td>He</td>
-            <td><strong>ovat</strong> kotona</td>
-            <td>Они [есть] дома</td>
-        </tr>
-    </tbody>
-</table>
-<p>В финском языке чаще используются обращение <strong>sinä</strong> (ты), даже в отношении к малознакомым людям. Но если необходимо подчеркнуть уважительное отношение к человеку, а также в официальных случаях, может использоваться вежливая форма <strong>Te</strong> (Вы).</p>
-<p>Финны часто не используют в предложении местоимения <strong>мы</strong>, <strong>ты</strong>, <strong>вы</strong>.</p>
-<p>Вы будете слышать:</p>
-<p>
-    <strong>Olen suomalainen.</strong> – Я финн.
-    <br />
-    <strong>Olette kotona.</strong> – Вы дома.
-</p>
-<p>
-    Но местоимения <strong>он</strong> / <strong>она</strong> / <strong>они</strong> употребляются всегда.
-</p>
-<p>
-    <strong>He ovat täällä.</strong> – Они здесь.
-    <br />
-    <strong>Hän on venäläinen.</strong> – Он (она) русский (русская).
-</p>
-<empty-line />
-<h2>Отрицательная форма глагола olla (быть)</h2>
-<p>
-    Отрицательная форма глагола <strong>olla</strong> образуется очень просто:
-</p>
-<p>
-    нужно добавить частичку <strong>ei</strong>, которая изменяется по лицам, и поставить <strong>ole</strong> после нее
-</p>
-<p>Окончания у частицы такие же, как у самого глагола, так что запомнить не составит труда:</p>
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th>ei</th>
-            <th>ole</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Minä</td>
-            <td>en</td>
-            <td><strong>ole</strong> kotona</td>
-            <td>Я не [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Sinä</td>
-            <td>et</td>
-            <td><strong>ole</strong> kotona</td>
-            <td>Ты не [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Hän</td>
-            <td>ei</td>
-            <td><strong>ole</strong> kotona</td>
-            <td>Он, она не [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Me</td>
-            <td>emme</td>
-            <td><strong>ole</strong> kotona</td>
-            <td>Мы не [есть] дома</td>
-        </tr>
-        <tr>
-            <td>Te</td>
-            <td>ette</td>
-            <td><strong>ole</strong> kotona</td>
-            <td>Вы не [есть] дома</td>
-        </tr>
-        <tr>
-            <td>He</td>
-            <td>eivät</td>
-            <td><strong>ole</strong> kotona</td>
-            <td>Они не [есть] дома</td>
-        </tr>
-    </tbody>
-</table>
-<p>
-    <strong>En ole venäläinen, olen ukrainalainen.</strong> – Я не русский, я украинец.
-    <br />
-    <strong>Emme ole Helsingissä, olemme Kuopiossa.</strong> – Мы не в Хельсинки, мы в Куопио.
-</p>
+<p>minä – я</p>
+<p>sinä – ты</p>
+<p>hän – он, она</p>
+<p>me – мы</p>
+<p>te – вы</p>
+<p>he – они</p>
+<p></p>
+<subtitle>Спряжение глагола olla</subtitle>
+<p><strong>minä olen kotona</strong> (я [есть] дома)</p>
+<p><strong>sinä olet kotona</strong> (ты [есть] дома)</p>
+<p><strong>hän ole kotona</strong> (он, она [есть] дома)</p>
+<p><strong>me olemme kotona</strong> (мы [есть] дома)</p>
+<p><strong>te olette kotona</strong> (вы [есть] дома)</p>
+<p><strong>he ovat kotona</strong> (они [есть] дома)</p>
+<p></p>
+<p>В финском языке чаще используются обращение <strong>sinä</strong> (ты), даже в отношении к малознакомым людям. Но если необходимо, можно использовать <strong>Te</strong> (Вы).</p>
+<p>Финны часто не используют в предложении местоимения <strong>мы</strong>, <strong>ты</strong>, <strong>вы</strong>:</p>
+<p><strong>Olen suomalainen.</strong> – Я финн.</p>
+<p><strong>Olette kotona.</strong> – Вы дома.</p>
+<p>Но местоимения он, она, они употребляются всегда.</p>
+<p><strong>He ovat täällä.</strong> – Они здесь.</p>
+<p><strong>Hän on venäläinen.</strong> – Он (она) русский (русская).</p>
+<p></p>
+<subtitle>Отрицательная форма глагола olla</subtitle>
+<p>Отрицательная форма глагола <strong>olla</strong> образуется очень просто: нужно добавить частичку <strong>ei</strong>, которая изменяется по лицам, и поставить <strong>ole</strong> после нее. <p>Окончания у частицы <strong>ei</strong>такие же, как у самого глагола:</p>
+<p>minä en ole kotona (я не [есть] дома)</p>
+<p>sinä et ole kotona (ты не [есть] дома)</p>
+<p>hän ei ole kotona (он, она не [есть] дома)</p>
+<p>me emme ole kotona (мы не [есть] дома)</p>
+<p>te ette ole kotona (вы не [есть] дома)</p>
+<p>he eivät ole kotona (они не [есть] дома)</p>
+<p></p>
+<p><strong>En ole venäläinen, olen ukrainalainen.</strong> – Я не русский, я украинец.</p>
+<p><strong>Emme ole Helsingissä, olemme Kuopiossa.</strong> – Мы не в Хельсинки, мы в Куопио.</p>
 <empty-line/>
-<h2>Вопросительная форма</h2>
-<p>
-    Вопросительная форма глагола <strong>olla</strong> образуется очень просто:
-</p>
-<p>
-    глагол <strong>olla</strong> в правильной форме + частичка <strong>ko</strong>
-</p>
-<p>Глагол выходит на первое место:</p>
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">Olla+ko</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Olenko minä kotona</td>
-            <td>(есть) Я дома?</td>
-        </tr>
-        <tr>
-            <td>Oletko sinä kotona</td>
-            <td>(есть) Ты дома?</td>
-        </tr>
-        <tr>
-            <td>Onko hän kotona</td>
-            <td>(есть) Он, она дома?</td>
-        </tr>
-        <tr>
-            <td>Olemmeko me kotona</td>
-            <td>(есть) Мы дома?</td>
-        </tr>
-        <tr>
-            <td>Oletteko te kotona</td>
-            <td>(есть) Вы дома?</td>
-        </tr>
-        <tr>
-            <td>Ovatko he kotona</td>
-            <td>(есть) Они дома?</td>
-        </tr>
-    </tbody>
-</table>
-<p>
-    <strong>Olenko minä kaunis?</strong> – Я красивая? (kaunis – красивый)
-    <br />
-    <strong>Oletteko kaupassa?</strong> – Вы в магазине? (kauppa – магазин)
-    <br />
-    <strong>Ovatko he töissä?</strong> – Они на работе? (töissä – на работе, työ – работа)
-</p>
+<subtitle>Вопросительная форма</subtitle>
+<p>Вопросительная форма глагола <strong>olla</strong> образуется с помощью частицы <strong>ko</strong>: глагол <strong>olla</strong> в правильной форме + частичка <strong>ko</strong> (глагол выходит на первое место).</p>
+<p>Olenko minä kotona (я дома?)</p>
+<p>Oletko sinä kotona (ты дома?)</td>
+<p>Onko hän kotona (он, она дома?)</p>
+<p>Olemmeko me kotona (мы дома?)</p>
+<p>Oletteko te kotona (вы дома?)</p>
+<p>Ovatko he kotona< (они дома?)</p>
+<p></p>
+<p><strong>Olenko minä kaunis?</strong> – Я красивая? (kaunis – красивый)</p>
+<p><strong>Oletteko kaupassa?</strong> – Вы в магазине? (kauppa – магазин)</p>
+<p><strong>Ovatko he töissä?</strong> – Они на работе? (töissä – на работе, työ – работа)</p>
 <empty-line/>
-<h2>Устойчивые выражения с глаголом olla (быть)</h2>
-<p>
-    С глаголом <strong>olla</strong> в финском языке есть очень много устойчивых выражений, которые украсят и обогатят речь.
-</p>
-<p>Поставьте глагол в нужную форму и получатся правильные повседневные фразы.</p>
-<p>В этом уроке мы будем работать только с единственным числом в устойчивых выражениях. Для множественного будет немного другая форма самого слова.</p>
-<p>Например:</p>
-<table>
-    <tbody>
-        <tr>
-            <td><strong>olla terve</strong></td>
-            <td>быть здоровым</td>
-        </tr>
-        <tr>
-            <td><strong>olla kipeä</strong></td>
-            <td>быть больным</td>
-        </tr>
-        <tr>
-            <td><strong>olla kiireinen</strong></td>
-            <td>быть занятым</td>
-        </tr>
-        <tr>
-            <td><strong>olla valmis</strong></td>
-            <td>быть готовым</td>
-        </tr>
-        <tr>
-            <td><strong>olla tyytyväinen</strong></td>
-            <td>быть довольным</td>
-        </tr>
-        <tr>
-            <td><strong>olla naimisissa</strong></td>
-            <td>быть женатым (замужем)</td>
-        </tr>
-        <tr>
-            <td><strong>olla ajoissa</strong></td>
-            <td>быть вовремя</td>
-        </tr>
-        <tr>
-            <td><strong>olla kotona</strong></td>
-            <td>быть дома</td>
-        </tr>
-        <tr>
-            <td><strong>olla töissä</strong></td>
-            <td>быть на работе</td>
-        </tr>
-        <tr>
-            <td><strong>olla väsynyt</strong></td>
-            <td>быть уставшим</td>
-        </tr>
-        <tr>
-            <td><strong>olla kunnossa</strong></td>
-            <td>быть в порядке</td>
-        </tr>
-        <tr>
-            <td><strong>olla kylässä</strong></td>
-            <td>быть в гостях</td>
-        </tr>
-        <tr>
-            <td><strong>olla oikeassa</strong></td>
-            <td>быть правым</td>
-        </tr>
-        <tr>
-            <td><strong>olla iloinen</strong></td>
-            <td>быть радостным</td>
-        </tr>
-    </tbody>
-</table>
-<empty-line/>
+<subtitle>Устойчивые выражения с глаголом olla (быть)</subtitle>
+<p><strong>olla terve</strong> (быть здоровым)</p>
+<p><strong>olla kipeä</strong> (быть больным)</p>
+<p><strong>olla kiireinen</strong> (быть занятым)</p>
+<p><strong>olla valmis</strong> (быть готовым)</p>
+<p><strong>olla tyytyväinen</strong> (быть довольным)</p>
+<p><strong>olla naimisissa</strong> (быть женатым (замужем))</p>
+<p><strong>olla ajoissa</strong> (быть вовремя)</p>
+<p><strong>olla kotona</strong> (быть дома)</p>
+<p><strong>olla töissä</strong> (быть на работе)</p>
+<p><strong>olla väsynyt</strong> (быть уставшим)</p>
+<p><strong>olla kunnossa</strong> (быть в порядке)</p>
+<p><strong>olla kylässä</strong> (быть в гостях)</p>
+<p><strong>olla oikeassa</strong> (быть правым)</p>
+<p><strong>olla iloinen</strong> (быть радостным)</p>
 <empty-line/>
 
-<subtitle>Урок 2</subtitle>
-
-    <h1>Глаголы 1-й и 3-й групп</h1> 
+<subtitle>Урок 2: глаголы 1-й и 3-й групп</subtitle>
     <p>
         В этом уроке мы с вами научимся работать с глаголами, а именно, узнаем, какие окончания нужно ставить, чтобы получилось: я работаю, ты идешь, мы говорим, а не получалось: я работать, ты идти, мы говорить.
     </p>
